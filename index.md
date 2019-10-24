@@ -1,37 +1,17 @@
 ## Welcome to my website ^_^
 
-You can use the [editor on GitHub](https://github.com/huongtran-3/Tran-Huong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a current PhD student at the University of Manchester. I am part of a cohort of students enrolled in the CDT programme in Data Analytics and Society. My research is entitled Advancing the use of Administrative Data in Official Statistics where I will be working along with The Office for National Statistics (ONS)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hold the European Master in Official Statistics (EMOS) which Master programmes providing post-graduate education in the area of official statistics at the European level. EMOS is a joint project of the University of Pisa and Eurostat. In the previous time, I earned my bachelor's degree in Economics specialise in Accounting and Auditing by the University of Economics and Law, Vietnam National University  - UEL VNU.
+My interests include:
 
-### Markdown
+survey method
+small area estimation
+administrative data and Big data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you would like to know more about my academic and professional background you can take a look at my CV.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huongtran-3/Tran-Huong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Project
+Here you can take a look at an Agent-Based Model I built as part of my Data Analytics training in Python.
