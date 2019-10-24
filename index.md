@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my website ^_^
 
 You can use the [editor on GitHub](https://github.com/huongtran-3/Tran-Huong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
