@@ -15,4 +15,4 @@ Big data
 If you would like to know more about my academic and professional background you can take a look at my CV.
 
 ## Project
-Here you can take a look at an Agent-Based Model I built as part of my Data Analytics training in Python.
+Here you can take a look at an Agent-Based Model I built as part of my Geography Programming Courses.
