@@ -1,4 +1,4 @@
-## Welcome to my website ^_^
+## Hello
 
 I am currently doing PhD at the University of Manchester. I am part of a cohort of students enrolled in the CDT programme in Data Analytics and Society. My research is entitled Advancing the use of Administrative Data in Official Statistics where I will be working along with The Office for National Statistics (ONS).
 
