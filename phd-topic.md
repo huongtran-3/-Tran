@@ -9,4 +9,5 @@ The research focus on measuring and communicating uncertainty of outputs includi
 The Administrative Data Research programme cooporates with The Office for National Statistics (ONS) with series of tasks in
 a preliminary work plan to advance the use of administrative data in official statistics. 
 
-![logo ONS](https://user-images.githubusercontent.com/55794712/68041992-bb268280-fcc9-11e9-87ec-3657f7db19ae.jpeg) ![esrc logo](https://user-images.githubusercontent.com/55794712/68042403-b3b3a900-fcca-11e9-94a7-a857dbdce759.png)
+
+![esrc logo](https://user-images.githubusercontent.com/55794712/68042403-b3b3a900-fcca-11e9-94a7-a857dbdce759.png)
