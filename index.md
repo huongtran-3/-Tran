@@ -7,7 +7,7 @@ I had done my internship at INSEE in Paris, where can you learn about data bette
 
 My research's interests:
 
-- Survey Statistics 
+- Survey method 
 - Small Area Estimation 
 - Administrative data 
 - Big data
