@@ -17,4 +17,5 @@ If you would like to know more about my academic and professional background you
 ## Project
 Here you can take a look at an Agent-Based Model I built as part of my Geography Programming Courses.
 
-![logo uni](https://user-images.githubusercontent.com/55794712/68035681-05086c00-fcbc-11e9-8960-cac2016b77e2.jpeg)
+![logo uni](https://user-images.githubusercontent.com/55794712/68036076-e060c400-fcbc-11e9-978d-d6e6937c3720.jpeg)
+
