@@ -8,13 +8,13 @@ University of Manchester, Manchester (United Kingdom)
 *September 2019*: **European Statistical Study Training**
 European Statistical Office (Eurostat), Luxembourge
 
-*2016 - 2019*: **Master of Science in Economics** 
-University of Pisa, and Santa Anna School of Advanced Studies, Pisa (Italy)
+*2016 - 2019*: **European of Master in Official Statistics - EMOS** 
+University of Pisa, Italy
 
 *August 2018*: **Silicon Valley Study Tour** 
-La Storia nel Futuro and the Silicon Valley Italian Executive Council (SVIEC)
+University of Pisa, La Storia nel Futuro and the Silicon Valley Italian Executive Council (SVIEC)
 
-*2015 - 2016*: **Pre-master Economics**
+*2015 - 2016*: **Pre-master Economics and Statistics**
 Vietnam Center Of Research in Economics Management and Environment (VCREM), Ho Chi Minh, Vietnam.
 
 *2010 - 2014*: **Bachelor of Economics in Accounting and Auditing**
