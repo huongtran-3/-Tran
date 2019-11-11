@@ -82,7 +82,7 @@ The snapshot of the model can find below. Wolves are represented by black circle
 ![abm-pic](https://user-images.githubusercontent.com/55794712/68553534-2b47ad80-041a-11ea-9797-38715c957ce9.png)
 
 # The code
-The final code can be accessed [here](ABM-Assignment-1).  
+The final code can be accessed [here](https://github.com/huongtran-3/ABM-Assignment-1).  
 
 
 Thank you for your reading.
