@@ -5,7 +5,7 @@ The model is a simple Agent Based Model (ABM), which includes two different type
 The sheeps will wander in the created environment searching for food. Sheeps have three fuctions:*moving* to searching for food, *eating* food and *sharing* with other sheeps (other_agents).
 The wolves have two main fuctions: *moving* and *hunting* sheep in the created environment.
 
-## The agent:
+#The agent:
 num_of_agents = 50
 num_of_wolves = 60
 num_of_iterations = 100
@@ -17,12 +17,13 @@ The number of iterations for each agent is the times of the agent's move, eat, s
 The neighourhood is the distance between agents to share food
 The scope parameter defines the hunting distance for each wolf.
 
-## Creating sheeps and wolves
+### Creating sheeps and wolves
+
+#Creating sheeps and wolves
 for i in range(num_of_agents):
-    agents.append(agentframework_v2.Agent(environment, agents, neighbourhood))
-    
+    agents.append(agentframework_v2.Agent(environment, agents, neighbourhood))    
 for i in range(num_of_wolves):
-    wolves.append(agentframework_v2.Wolf(agents, scope))   
+    wolves.append(agentframework_v2.Wolf(agents, scope))    
     
     
 ## Moving, eating and sharing of agents
@@ -35,8 +36,7 @@ The sheep will eat 10 units of food in their position, incase the food in their 
         if random.random() < 0.5:
             self.y = (self.y + 1) % 300 
         else:
-            self.y = (self.y - 1 ) % 300
-            
+            self.y = (self.y - 1 ) % 300     
         if random.random() < 0.5:
             self.x = (self.x + 1 ) % 300
         else:
@@ -52,7 +52,7 @@ The sheep will eat 10 units of food in their position, incase the food in their 
             self.store += self.environment[self.y][self.x]
             self.environment[self.y][self.x] -= self.environment[self.y][self.x]
             
-    def share_with_neighbours(self, neighbourhood):
+   def share_with_neighbours(self, neighbourhood):
         for i in self.agents_list: 
             if i != self: 
                 distance = self.distance_between(i) 
@@ -65,6 +65,7 @@ The sheep will eat 10 units of food in their position, incase the food in their 
 The wolves have the same move's function with agents, however, their moving does not be limmited by food.
 The hunting's function allows to eliminate the sheep in the environment. 
 The model also includes stopping conditions when all the sheep have been hunted by wolves within the environment.
+
 
 #Function that hunts (eliminate) sheeps              
     def hunt(self, agents_list):
