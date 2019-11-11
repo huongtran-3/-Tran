@@ -1,6 +1,6 @@
 # Agent Based Model
 
-The model is a simple Agent Based Model (ABM), which includes two different types of agents: sheep and wolves. 
+The model is a simple Agent Based Model (ABM), which includes two different types of agents: sheeps and wolves. 
 
 The sheeps will wander in the created environment searching for food. Sheeps have three fuctions:*moving* to searching for food, *eating* food and *sharing* with other sheep (other_agents).
 The wolves have two main fuctions: *moving* and *hunting* sheep in the created environment.
