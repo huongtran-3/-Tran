@@ -1,18 +1,23 @@
 ## Agent Based Model
 
-*Hungry like the Wolf*
+The model is a simple Agent Based Model (ABM), which includes two different types of agents: sheep and wolves. 
 
-The model has the purpose of creating two different types of agents: sheep and wolves. Once created, sheep will wander through an environment containing resources or “food”. In addition, they have two more functions: eating and sharing units with other sheep when they come close to a certain —and predefined— distance.
+The sheeps will wander in the created environment searching for food. Sheeps have two main fuctions: *eating* food and *sharing* it with other sheep (other_agents).
+The wolves have two main fuctions: *moving* and *hunting* sheep in the created environment.
 
-The wolves, on the other hand, have the capacity of moving through the environment and hunting sheep when they step into a certain distance from them. The sheep’s moving function allows them to increase their speed the more food they eat, allowing them to escape from their predators. The model stops when all the sheep have been hunted by the wolves.
+# The agent:
+num_of_agents = 50
+num_of_wolves = 60
+num_of_iterations = 100
+neighbourhood = 20
+scope = 10
 
-Let’s take a closer look into the code. First, some parameters are defined. Here you can define the number of sheep —coded as agents— and wolves you want in the model. You can also specify the number of iterations for each agent, i.e. how many times they will move, eat, share and hunt (this has not been divided for each type of agent). Finally, the neighourhood parameter specifies the distance a sheep needs to be from another in order to share resources, whilst the scope parameter defines the hunting distance for each wolf.
 
-hinh
+The number of iterations for each agent is the times of the agent's move, eat, share and hunt.
+The neighourhood is the distance between agents to share food
+The scope parameter defines the hunting distance for each wolf.
 
-As mentioned before, sheep will move around the environment and their speed will depend on how much food they have stored. In this example, they move 1 unit plus the 0.5% of what they have eaten so far. We don’t want them to be extremely fast! However, this could be changed if needed.
 
-hinh
 
 Eating and sharing resources are important behaviours for our sheep. This will allow them to store food —and thus be harder to hunt— as well as colaborate with other colleagues by equally dividing the sum of both of their food. Sheep will eat 10 units of food provided that there are more than 10 units of food in the position where they are “standing”; otherwise they will eat whatever is left in their current position.
 
@@ -22,8 +27,6 @@ Wolves share the move function with the sheep with the difference that their beh
 
 hinh
 
-Below you can see a snapshot of the model. Wolves are represented by dark circles and sheep by yellow stars.
+Below you can see a snapshot of the model. Wolves are represented by black circles and sheep by yellow stars.
 
-hinh
 
-The code can be accessed through my repository by clicking here. Just note the quantitity of sheep and wolves you use, if there are way more sheep than wolves the model can take a while to stop and in that case you might want to get yourself a cuppa and enjoy the animation (you can always just close the pop-up window).
