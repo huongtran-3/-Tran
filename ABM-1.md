@@ -17,11 +17,22 @@ The number of iterations for each agent is the times of the agent's move, eat, s
 The neighourhood is the distance between agents to share food
 The scope parameter defines the hunting distance for each wolf.
 
+# Creating sheeps and wolves
+for i in range(num_of_agents):
+    agents.append(agentframework_v2.Agent(environment, agents, neighbourhood))
+    
+for i in range(num_of_wolves):
+    wolves.append(agentframework_v2.Wolf(agents, scope))   
+    
+    
+# Moving, eating and sharing of agents
+The code below will define the sheep to move, eat and share to other sheep. 
+The sheep will move around the environment and their speed will depend on the amount of food they had eat.
+The sheep will eat 10 units of food in their position, incase the food in their current position is less than 10, they will eat whatever is left there.
 
 
-Eating and sharing resources are important behaviours for our sheep. This will allow them to store food —and thus be harder to hunt— as well as colaborate with other colleagues by equally dividing the sum of both of their food. Sheep will eat 10 units of food provided that there are more than 10 units of food in the position where they are “standing”; otherwise they will eat whatever is left in their current position.
+# Moving and hunting of Wolves
 
-hinh
 
 Wolves share the move function with the sheep with the difference that their behaviour does not depend on food; instead they can only move 2 units per iteration. They also have a unique function called hunt with which they are able to delete agents from the environment if they are within their scope.
 
@@ -29,4 +40,5 @@ hinh
 
 Below you can see a snapshot of the model. Wolves are represented by black circles and sheep by yellow stars.
 
+![abm-pic](https://user-images.githubusercontent.com/55794712/68553534-2b47ad80-041a-11ea-9797-38715c957ce9.png)
 
