@@ -1,5 +1,6 @@
 # Advancing the use of Administrative data in Official Statistics
-## PhD research topic
+
+### Research topic
 
 The research is about the Quality of administrative data, the Linkage of data, the Privacy and Confidentiality, the Estimation
 of data, the Statistical Data Editing. 
@@ -10,6 +11,6 @@ The Administrative Data Research programme cooporates with The Office for Nation
 a preliminary work plan to advance the use of administrative data in official statistics. 
 
 
-![ONS-logo](https://user-images.githubusercontent.com/55794712/68042648-4eac8300-fccb-11e9-9310-26a0f434c094.png)
+
 
 
