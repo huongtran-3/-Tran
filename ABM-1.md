@@ -34,4 +34,8 @@ The snapshot of the model can find below. Sheeps are denoted by yellow stars, wo
 The final code agentframework and model can be accessed [ABM-Assignment-1](https://github.com/huongtran-3/ABM-Assignment-1).  
 
 
+
 *Thank you for your reading!*
+
+![Lambs-700px](https://user-images.githubusercontent.com/55794712/68634251-b72a0a00-04ec-11ea-9118-2ef8ed8889fc.jpg)
+
