@@ -26,7 +26,7 @@ The model also includes stopping conditions when all the sheep have been hunted 
 ### The environment:
 The data is saved as ‘data.txt'. The environtment is the data where the agents can move, eat and share with their neighbour.
 
-The snapshot of the model can find below. Wolves are represented by black circles and sheep by yellow stars.
+The snapshot of the model can find below. Sheeps are denoted by yellow stars, wolves by black circles.
 
 ![abm-pic](https://user-images.githubusercontent.com/55794712/68553534-2b47ad80-041a-11ea-9797-38715c957ce9.png)
 
